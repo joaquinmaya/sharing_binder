@@ -6,3 +6,4 @@ dependencies:
   - pip:
     - nbserverproxy
     - jupyter-server-proxy
+    - datetime
