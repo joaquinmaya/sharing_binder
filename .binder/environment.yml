@@ -1,10 +1,10 @@
 dependencies:
-  - random
   - pandas
   - numpy
   - bokeh
   - pip
   - pip:
+    - random
     - nbserverproxy
     - jupyter-server-proxy
     
