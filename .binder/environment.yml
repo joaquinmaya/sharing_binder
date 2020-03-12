@@ -4,7 +4,6 @@ dependencies:
   - bokeh
   - pip
   - pip:
-    - random
     - nbserverproxy
     - jupyter-server-proxy
     
